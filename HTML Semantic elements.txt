@@ -1,0 +1,34 @@
+HTML Semantic elements
+
+Esa element jiska koi meaning ho, is element se browser or eveloper ko pata chal jata hai ki is element me
+kya hone wala hai.
+
+Non-semantic elements jo nahi batata ki isme kya hone wala hai.
+
+Example: <div> and <span>
+
+Div aap paragraph pe bhi laga sakte ho image pe bhi laga sakte ho lekin ye user ko or browser ko nahi bata rha
+ki jo developer ise code kr rha hai kis chij ke liye code kr rha hai.
+
+Semantic elements 
+Example <form> , <table> and <article>
+
+is tag ko padhne se pata chal rha hai ki form ka tag apne form code krne ke liye use kiya hoga
+table ka tag table ke liye or article ka tag article ke liye, Ye in tag ko padhne se pata chal rha hai.
+
+Semantic elements tag
+
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+
